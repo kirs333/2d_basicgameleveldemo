@@ -13,3 +13,5 @@ A small 2D game built in Godot.
 
 ## Status
 In development
+
+GAME LINK WILL BE RELEASED UPON COMPLETION.
